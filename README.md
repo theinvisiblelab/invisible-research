@@ -1,1 +1,5 @@
 # invisible-research
+
+![](https://i.gifer.com/6M8G.gif)
+
+The Invisible Research project confronts the critical issue of academic invisibility, emphasizing the urgent need to identify, quantify, and elevate valuable research outputs overlooked due to language barriers, publication biases, institutional prestige hierarchies, and limited digital discoverability. Despite the vast expansion of global academic output, dominant research indexing platforms, citation databases, and search algorithms frequently marginalize scholarship produced in languages other than English, from regions beyond established academic centers, and by scholars operating outside high-prestige institutions. Leveraging advanced computational methodologies including natural language processing, network analysis, and bibliometric assessment, the project systematically uncovers such hidden scholarship. Invisible Research aims to democratize knowledge dissemination, promote intellectual equity, and foster more inclusive global dialogues by actively making visible impactful research contributions previously obscured within academic ecosystems.
